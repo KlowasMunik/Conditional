@@ -1,0 +1,31 @@
+######## IF ELSE ########
+# 1) Ask the user to enter a number
+# 2) If the number is less than 200 and greater than 100 print that it is within range.
+#    Otherwise, tell them the number is out of range.
+######## END END END END ########
+######## IF-ELIF-ELSE ########
+# 1) Calculate the user's grade. 
+#    Tell them to enter 0-100 for their final grade percentage in class
+# 2) Use standard grade values. A->90, B->80 etc
+# 3) Output their final grade as a letter
+######## END END END END ########
+######## Multiple IFs ########
+# Context: You are writing logic for tiered rewards for a donation
+# $150+ : plushie
+# $50+  : hat
+# $30+  : cup
+# $10   : sticker
+# Ask the user how much they would like to donate, 
+# then output ALL of the rewards they qualify for.
+######## END END END END ########
+######## Complex Conditional Statements ########
+# Context: You are writing logic for a restaurant
+# Parties with 10+ people need a reservation
+# Parties under 10 dont need a reservation
+# 1) Ask user party size
+# 2) Ask if they have a reservation
+# If they need one and don't have one tell them they need to schedule
+# If they don't require them, tell them their table will be ready shortly
+######## END END END END ########
+
+
